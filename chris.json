@@ -1,0 +1,532 @@
+{
+                    "searchHit": {
+                        "totalViews": 0,
+                        "views": [],
+                        "score": 544.9533,
+                        "memberHit": {
+                            "schools": [
+                                {
+                                    "name": "General Assembly",
+                                    "timeAttended": {
+                                        "startYear": 2012,
+                                        "endYear": 2013
+                                    }
+                                },
+                                {
+                                    "name": "Human Factors International&#8211;The Science and Art of Effective Web and Application Design Training",
+                                    "timeAttended": {
+                                        "startYear": 2009,
+                                        "endYear": 2009
+                                    }
+                                },
+                                {
+                                    "name": "University of San Diego",
+                                    "timeAttended": {
+                                        "startYear": 1992,
+                                        "endYear": 1997
+                                    }
+                                },
+                                {
+                                    "name": "Loyola High School",
+                                    "timeAttended": {
+                                        "startYear": 1990,
+                                        "endYear": 1992
+                                    }
+                                }
+                            ],
+                            "member": "urn:li:member:3686719",
+                            "headline": "Sr. / Lead <b>UX</b> Designer",
+                            "authToken": "DXrF",
+                            "sharedConnections": 0,
+                            "summary": " and enriching online experiences. \n\nCORE COMPETENCIES\n\nLean/Agile <b>UX</b> Integration \nIXD: Personas",
+                            "pastPositions": [
+                                {
+                                    "timeHeld": {
+                                        "startMonth": 10,
+                                        "startYear": 2013,
+                                        "endYear": 2014,
+                                        "endMonth": 11
+                                    },
+                                    "profilePositionId": 486868825,
+                                    "companyType": "",
+                                    "positionSummary": "&#8226;\tCreate and communicate conceptual designs to drive product direction\n&#8226;\tConduct heuristic",
+                                    "companyName": "Cisco",
+                                    "title": "Sr. / Lead Interaction Designer",
+                                    "companyId": 1063
+                                },
+                                {
+                                    "timeHeld": {
+                                        "startYear": 2012,
+                                        "endYear": 2013
+                                    },
+                                    "profilePositionId": 390253606,
+                                    "companyType": "",
+                                    "positionSummary": "&#8226;\tHead of Usability/Interaction Design/User Testing/Information Architecture for company's website",
+                                    "companyName": "FuzeBox, Inc.",
+                                    "title": "Sr. <b>UX</b> Designer",
+                                    "companyId": 449328
+                                },
+                                {
+                                    "timeHeld": {
+                                        "startMonth": 10,
+                                        "startYear": 2009,
+                                        "endYear": 2010,
+                                        "endMonth": 4
+                                    },
+                                    "profilePositionId": 98246298,
+                                    "companyType": "",
+                                    "positionSummary": "&#8226;\tCreated and developed interaction design spec documents including research and requirements",
+                                    "companyName": "BusinessOnLine",
+                                    "title": "Usability Design",
+                                    "companyId": 41820
+                                },
+                                {
+                                    "timeHeld": {
+                                        "startYear": 2009,
+                                        "endYear": 2009,
+                                        "endMonth": 10
+                                    },
+                                    "profilePositionId": 72296970,
+                                    "companyType": "",
+                                    "positionSummary": "&#8226;\tDesigned iOS iPhone app from inception to completion that included: concept ideation, personas",
+                                    "companyName": "MConcepts",
+                                    "title": "Interaction Designer/ Information Architect/UI Designer/Mentee"
+                                }
+                            ],
+                            "industryId": 6,
+                            "authType": "CAP",
+                            "primaryPicture": "urn:li:media:/AAEAAQAAAAAAAAkCAAAAJGY5NWUwNjI3LTdkZDQtNGEwYi1hNmUwLWFiMWYzZGE3ZjJmYg.jpg",
+                            "geoRegion": {
+                                "countryCode": "us",
+                                "regionCode": 84
+                            },
+                            "associations": " Institute), IXDA (Interaction Design Association), <b>UX</b> Meetups (Lean <b>UX</b> SF, Better Collaboration)",
+                            "interests": "IA, <b>UX</b> Design, New Technology",
+                            "privacyInfo": {
+                                "showOpenlinkIcon": true,
+                                "showSubscriberIcon": false,
+                                "showJobSeekerIcon": false,
+                                "requireReferral": false
+                            },
+                            "networkDistance": "THIRD_DEGREE",
+                            "industry": "Internet",
+                            "numConnections": 166,
+                            "currentPositions": [
+                                {
+                                    "timeHeld": {
+                                        "startMonth": 5,
+                                        "startYear": 2016
+                                    },
+                                    "profilePositionId": 817859724,
+                                    "companyType": "",
+                                    "companyName": "Skuid",
+                                    "title": "Sr. <b>UX</b> Designer",
+                                    "companyId": 2864413
+                                },
+                                {
+                                    "timeHeld": {
+                                        "startMonth": 5,
+                                        "startYear": 2010
+                                    },
+                                    "profilePositionId": 127157697,
+                                    "companyType": "",
+                                    "positionSummary": "&#8226;\tLead Concept and Product Design efforts of Pixel Perfect wireframes and workflows (mobile",
+                                    "companyName": "Independent Contractor- Cisco, Intel, Ring Central, Sony, Yodlee",
+                                    "title": "Sr. / Lead <b>UX</b> Designer"
+                                }
+                            ],
+                            "lastName": "Demont",
+                            "firstName": "Chris"
+                        }
+                    },
+                    "location": "San Francisco Bay Area",
+                    "headline": "Sr. / Lead <b>UX</b> Designer",
+                    "isPremiumSubscriber": false,
+                    "subscriberInfo": {
+                        "openLink": false,
+                        "jobSeeker": false,
+                        "premium": false,
+                        "isCompanyFollower": false
+                    },
+                    "findAuthInputModel": {
+                        "asUrlParam": "3686719,DXrF,CAP",
+                        "authToken": "DXrF",
+                        "profileId": 3686719,
+                        "member": true,
+                        "toUrn": "urn:li:member:3686719",
+                        "authType": "CAP",
+                        "isUnlockedProfile": true
+                    },
+                    "memberId": 3686719,
+                    "sharedNumConnections": 0,
+                    "hasOpenReviewByViewer": false,
+                    "isInClipboard": false,
+                    "capViewer": {
+                        "isReferralCustomer": false,
+                        "seatUrn": "urn:li:seat:113995976",
+                        "memberId": 370428582,
+                        "contractUrn": "urn:li:contract:208540796",
+                        "featureRampSegment": 0,
+                        "memberUrn": "urn:li:member:370428582",
+                        "seat": {
+                            "permissions": [
+                                "CAP_CAN_SEE_MY_ACTIVITIES",
+                                "CAN_SEARCH_LI_FULL_NETWORK",
+                                "CAN_USE_REMINDERS",
+                                "CAN_MSG_TALENT_DIRECT_PROFILES",
+                                "CAP_CAN_USE_CATEGORY_IN_MESSAGE",
+                                "CAN_SEARCH_JOB_BOARDS",
+                                "CAP_CAN_VIEW_RECRUITING_TOOLBOX",
+                                "CAN_VIEW_FLAG_TALENT_NETWORK",
+                                "CAN_CREATE_CAP_PROJECTS",
+                                "CAN_USE_PEOPLE_SEARCH",
+                                "CAP_CAN_USE_OON_SEARCH",
+                                "CAP_CAN_SEE_INMAIL_ANALYTICS",
+                                "CAN_SEARCH_LI_PERSONAL_NETWORK",
+                                "CAN_EDIT_PROSPECT",
+                                "CAP_CAN_SEE_NEW_USER_EXP_MODULE",
+                                "CAN_USE_INMAIL_TEMPLATES",
+                                "CAP_CAN_VIEW_PROFILE_CONNECTION_PATH",
+                                "CAN_SAVE_TO_PROJECTS",
+                                "CAN_SEARCH_TALENT_NETWORK",
+                                "CAN_MESSAGE_CANDIDATES",
+                                "CAN_EDIT_SEATS",
+                                "CAN_BROWSE_TALENT_NETWORK",
+                                "CAN_ADD_PROSPECT",
+                                "CAP_CAN_USE_FULL_RANGE_SEARCH",
+                                "CAN_VIEW_REFERRALS",
+                                "CAP_CAN_EDIT_CUSTOM_FIELDS",
+                                "CAP_REDUCED_PIPELINE_FEATURES",
+                                "CAN_VIEW_CLIPBOARD",
+                                "CAN_VIEW_ADD_PROFILES",
+                                "CAP_CAN_USE_STATUS",
+                                "CAN_VIEW_APPLICANTS",
+                                "CAN_USE_SAVED_SEARCHES",
+                                "CAP_CAN_FOLLOW_PROSPECTS",
+                                "CAN_VIEW_SHARED_PROFILES",
+                                "CAN_POST_CAP_JOBS",
+                                "CAN_VIEW_ADMIN_CONSOLE",
+                                "CAP_CAN_SEE_TEAM_ACTIVITIES",
+                                "CAN_INMAIL_ANY_SINGLE_RECIPIENT",
+                                "CAN_CHANGE_CONTRACT_SETTINGS",
+                                "CAN_MSG_PROFILES_TALENT_NETWORK",
+                                "CAP_CAN_VIEW_PYMH",
+                                "CAN_VIEW_CONTRACT_REPORTS",
+                                "CAN_REQUEST_RESOURCES",
+                                "CAN_VIEW_TALENT_MATCHES",
+                                "CAP_BULK_ADD_SAVE_PRINT",
+                                "CAP_NO_TALENT_PIPELINE_FEATURES",
+                                "CAN_SEARCH_WEB",
+                                "CAN_USE_SEARCH"
+                            ],
+                            "member": "urn:li:member:370428582",
+                            "systemUser": false,
+                            "active": true,
+                            "seatRoles": [
+                                "MINI_SEAT",
+                                "PURCHASE_ADDONS",
+                                "SOURCER_ADD_PROSPECT",
+                                "SOURCER_EDIT_PROSPECT",
+                                "ADMIN_SEAT"
+                            ],
+                            "id": 113995976,
+                            "contractId": "urn:li:contract:208540796",
+                            "admin": true,
+                            "lastModified": {
+                                "time": 1467218511000
+                            }
+                        },
+                        "parentContractUrn": "urn:li:contract:208540796",
+                        "contract": {
+                            "trackingIdMandatory": false,
+                            "online": true,
+                            "description": "Recruiter Lite",
+                            "systemStates": [],
+                            "autopipelineEnabled": true,
+                            "account": "urn:li:capAccount:432092066",
+                            "featureRampSegment": 0,
+                            "activeSeatCount": 1,
+                            "name": "Recruiter Lite",
+                            "type": "MINI",
+                            "id": 208540796,
+                            "parentContract": "urn:li:contract:208540796"
+                        },
+                        "seatId": 113995976,
+                        "parentContractId": 208540796,
+                        "contractId": 208540796,
+                        "parentContract": {
+                            "trackingIdMandatory": false,
+                            "online": true,
+                            "description": "Recruiter Lite",
+                            "systemStates": [],
+                            "autopipelineEnabled": true,
+                            "account": "urn:li:capAccount:432092066",
+                            "featureRampSegment": 0,
+                            "activeSeatCount": 1,
+                            "name": "Recruiter Lite",
+                            "type": "MINI",
+                            "id": 208540796,
+                            "parentContract": "urn:li:contract:208540796"
+                        },
+                        "isChildContract": false
+                    },
+                    "isMember": true,
+                    "currentEducation": {
+                        "i18nStartDate": "2012",
+                        "endDateYear": 2013,
+                        "i18nEndDate": "2013",
+                        "schoolName": "General Assembly",
+                        "startDateYear": 2012
+                    },
+                    "authType": "CAP",
+                    "teamContracts": {
+                        "208540796": {
+                            "name": "Recruiter Lite",
+                            "type": "MINI",
+                            "id": 208540796,
+                            "parentContract": "urn:li:contract:208540796"
+                        }
+                    },
+                    "educations": [
+                        {
+                            "i18nStartDate": "2012",
+                            "endDateYear": 2013,
+                            "i18nEndDate": "2013",
+                            "schoolName": "General Assembly",
+                            "startDateYear": 2012
+                        },
+                        {
+                            "i18nStartDate": "2009",
+                            "endDateYear": 2009,
+                            "i18nEndDate": "2009",
+                            "schoolName": "Human Factors International&#8211;The Science and Art of Effective Web and Application Design Training",
+                            "startDateYear": 2009
+                        },
+                        {
+                            "i18nStartDate": "1992",
+                            "endDateYear": 1997,
+                            "i18nEndDate": "1997",
+                            "schoolName": "University of San Diego",
+                            "startDateYear": 1992
+                        },
+                        {
+                            "i18nStartDate": "1990",
+                            "endDateYear": 1992,
+                            "i18nEndDate": "1992",
+                            "schoolName": "Loyola High School",
+                            "startDateYear": 1990
+                        }
+                    ],
+                    "networkDistance": "THIRD_DEGREE",
+                    "imageUri": "https://media.licdn.com/mpr/mpr/shrink_xx_yy/AAEAAQAAAAAAAAkCAAAAJGY5NWUwNjI3LTdkZDQtNGEwYi1hNmUwLWFiMWYzZGE3ZjJmYg.jpg",
+                    "industry": "Internet",
+                    "currentPositions": [
+                        {
+                            "companyUrl": "https://www.linkedin.com/recruiter/company/2864413",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Sr.%2B%253Cb%253EUX%253C%252Fb%253E%2BDesigner&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "Skuid",
+                            "i18nStartDate": "May 2016",
+                            "startDateMonth": 5,
+                            "current": true,
+                            "startDateYear": 2016,
+                            "companyId": 2864413,
+                            "title": "Sr. <b>UX</b> Designer",
+                            "displayText": "Sr. <b>UX</b> Designer at Skuid",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?facet.CC=2864413%2C1unnegated&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0"
+                        },
+                        {
+                            "title": "Sr. / Lead <b>UX</b> Designer",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Sr.%2B%252F%2BLead%2B%253Cb%253EUX%253C%252Fb%253E%2BDesigner&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "current": true,
+                            "startDateYear": 2010,
+                            "companyName": "Independent Contractor- Cisco, Intel, Ring Central, Sony, Yodlee",
+                            "i18nStartDate": "May 2010",
+                            "displayText": "Sr. / Lead <b>UX</b> Designer at Independent Contractor- Cisco, Intel, Ring Central, Sony, Yodlee",
+                            "startDateMonth": 5,
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?company=Independent+Contractor-+Cisco%2C+Intel%2C+Ring+Central%2C+Sony%2C+Yodlee&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0"
+                        }
+                    ],
+                    "lastName": "Demont",
+                    "firstName": "Chris",
+                    "profileLocked": false,
+                    "messageType": "InMail",
+                    "canSendFreeInMail": false,
+                    "isFollowed": false,
+                    "authToken": "DXrF",
+                    "familiarName": "Chris",
+                    "image": "/AAEAAQAAAAAAAAkCAAAAJGY5NWUwNjI3LTdkZDQtNGEwYi1hNmUwLWFiMWYzZGE3ZjJmYg.jpg",
+                    "pastPositions": [
+                        {
+                            "companyUrl": "https://www.linkedin.com/recruiter/company/1063",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Sr.%2B%252F%2BLead%2BInteraction%2BDesigner&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "Cisco",
+                            "i18nStartDate": "October 2013",
+                            "startDateMonth": 10,
+                            "endDateYear": 2014,
+                            "current": false,
+                            "startDateYear": 2013,
+                            "companyId": 1063,
+                            "endDateMonth": 11,
+                            "title": "Sr. / Lead Interaction Designer",
+                            "displayText": "Sr. / Lead Interaction Designer at Cisco",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?facet.CC=1063%2C1unnegated&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0",
+                            "i18nEndDate": "November 2014"
+                        },
+                        {
+                            "companyUrl": "https://www.linkedin.com/recruiter/company/449328",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Sr.%2B%253Cb%253EUX%253C%252Fb%253E%2BDesigner&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "FuzeBox, Inc.",
+                            "i18nStartDate": "2012",
+                            "endDateYear": 2013,
+                            "current": false,
+                            "startDateYear": 2012,
+                            "companyId": 449328,
+                            "title": "Sr. <b>UX</b> Designer",
+                            "displayText": "Sr. <b>UX</b> Designer at FuzeBox, Inc.",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?facet.CC=449328%2C1unnegated&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0",
+                            "i18nEndDate": "2013"
+                        },
+                        {
+                            "companyUrl": "https://www.linkedin.com/recruiter/company/41820",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Usability%2BDesign&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "BusinessOnLine",
+                            "i18nStartDate": "October 2009",
+                            "startDateMonth": 10,
+                            "endDateYear": 2010,
+                            "current": false,
+                            "startDateYear": 2009,
+                            "companyId": 41820,
+                            "endDateMonth": 4,
+                            "title": "Usability Design",
+                            "displayText": "Usability Design at BusinessOnLine",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?facet.CC=41820%2C1unnegated&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0",
+                            "i18nEndDate": "April 2010"
+                        },
+                        {
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Interaction%2BDesigner%252F%2BInformation%2BArchitect%252FUI%2BDesigner%252FMentee&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "MConcepts",
+                            "i18nStartDate": "2009",
+                            "endDateYear": 2009,
+                            "current": false,
+                            "startDateYear": 2009,
+                            "endDateMonth": 10,
+                            "title": "Interaction Designer/ Information Architect/UI Designer/Mentee",
+                            "displayText": "Interaction Designer/ Information Architect/UI Designer/Mentee at MConcepts",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?company=MConcepts&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0",
+                            "i18nEndDate": "October 2009"
+                        }
+                    ],
+                    "isOpenLink": false,
+                    "degree": "THIRD_DEGREE",
+                    "numConnections": 166,
+                    "canSendMessage": true,
+                    "hideSimilarProfile": false,
+                    "summary": " and enriching online experiences. \n\nCORE COMPETENCIES\n\nLean/Agile <b>UX</b> Integration \nIXD: Personas",
+                    "positions": [
+                        {
+                            "companyUrl": "https://www.linkedin.com/recruiter/company/2864413",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Sr.%2B%253Cb%253EUX%253C%252Fb%253E%2BDesigner&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "Skuid",
+                            "i18nStartDate": "May 2016",
+                            "startDateMonth": 5,
+                            "current": true,
+                            "startDateYear": 2016,
+                            "companyId": 2864413,
+                            "title": "Sr. <b>UX</b> Designer",
+                            "displayText": "Sr. <b>UX</b> Designer at Skuid",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?facet.CC=2864413%2C1unnegated&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0"
+                        },
+                        {
+                            "title": "Sr. / Lead <b>UX</b> Designer",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Sr.%2B%252F%2BLead%2B%253Cb%253EUX%253C%252Fb%253E%2BDesigner&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "current": true,
+                            "startDateYear": 2010,
+                            "companyName": "Independent Contractor- Cisco, Intel, Ring Central, Sony, Yodlee",
+                            "i18nStartDate": "May 2010",
+                            "displayText": "Sr. / Lead <b>UX</b> Designer at Independent Contractor- Cisco, Intel, Ring Central, Sony, Yodlee",
+                            "startDateMonth": 5,
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?company=Independent+Contractor-+Cisco%2C+Intel%2C+Ring+Central%2C+Sony%2C+Yodlee&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0"
+                        },
+                        {
+                            "companyUrl": "https://www.linkedin.com/recruiter/company/1063",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Sr.%2B%252F%2BLead%2BInteraction%2BDesigner&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "Cisco",
+                            "i18nStartDate": "October 2013",
+                            "startDateMonth": 10,
+                            "endDateYear": 2014,
+                            "current": false,
+                            "startDateYear": 2013,
+                            "companyId": 1063,
+                            "endDateMonth": 11,
+                            "title": "Sr. / Lead Interaction Designer",
+                            "displayText": "Sr. / Lead Interaction Designer at Cisco",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?facet.CC=1063%2C1unnegated&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0",
+                            "i18nEndDate": "November 2014"
+                        },
+                        {
+                            "companyUrl": "https://www.linkedin.com/recruiter/company/449328",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Sr.%2B%253Cb%253EUX%253C%252Fb%253E%2BDesigner&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "FuzeBox, Inc.",
+                            "i18nStartDate": "2012",
+                            "endDateYear": 2013,
+                            "current": false,
+                            "startDateYear": 2012,
+                            "companyId": 449328,
+                            "title": "Sr. <b>UX</b> Designer",
+                            "displayText": "Sr. <b>UX</b> Designer at FuzeBox, Inc.",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?facet.CC=449328%2C1unnegated&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0",
+                            "i18nEndDate": "2013"
+                        },
+                        {
+                            "companyUrl": "https://www.linkedin.com/recruiter/company/41820",
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Usability%2BDesign&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "BusinessOnLine",
+                            "i18nStartDate": "October 2009",
+                            "startDateMonth": 10,
+                            "endDateYear": 2010,
+                            "current": false,
+                            "startDateYear": 2009,
+                            "companyId": 41820,
+                            "endDateMonth": 4,
+                            "title": "Usability Design",
+                            "displayText": "Usability Design at BusinessOnLine",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?facet.CC=41820%2C1unnegated&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0",
+                            "i18nEndDate": "April 2010"
+                        },
+                        {
+                            "searchTitleUrl": "https://www.linkedin.com/recruiter/search?jobTitle=Interaction%2BDesigner%252F%2BInformation%2BArchitect%252FUI%2BDesigner%252FMentee&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSJ&doProjectBasedCounting=false&count=10&start=0",
+                            "companyType": "",
+                            "companyName": "MConcepts",
+                            "i18nStartDate": "2009",
+                            "endDateYear": 2009,
+                            "current": false,
+                            "startDateYear": 2009,
+                            "endDateMonth": 10,
+                            "title": "Interaction Designer/ Information Architect/UI Designer/Mentee",
+                            "displayText": "Interaction Designer/ Information Architect/UI Designer/Mentee at MConcepts",
+                            "searchCompanyUrl": "https://www.linkedin.com/recruiter/search?company=MConcepts&updateSearchHistory=true&decorateHits=true&decorateFacets=false&resetFacets=false&doResultCaching=false&forceResultFromCache=false&origin=PPSC&doProjectBasedCounting=false&count=10&start=0",
+                            "i18nEndDate": "October 2009"
+                        }
+                    ],
+                    "isCompanyFollower": false,
+                    "maybeClipboard": {
+                        "profileCount": 0,
+                        "seat": "urn:li:seat:113995976",
+                        "profiles": [],
+                        "contract": "urn:li:contract:208540796"
+                    },
+                    "teamActivityCount": 0,
+                    "fullName": "Chris Demont",
+                    "isJobSeeker": false
+                }
