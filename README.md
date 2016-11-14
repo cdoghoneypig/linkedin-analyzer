@@ -1,7 +1,9 @@
 # linkedin-analyzer
 Takes search results from LinkedIn and analyzes jobs before a school vs after.
 
-The initial version of this analyzes results for UXDI students. I have also gathered LinkedIn data on GA's WDI and for HackReactor.
+Python 3.5
+
+The initial version of this analyzes results for UXDI students at General Assembly. I also gathered LinkedIn data on GA's WDI and for HackReactor. The way this was written, it used downloaded html pages from linkedin search. I'm sure that html will be sufficiently different soon that this script doesn't work at all.
 
 The scripts to run are:
 linkedin-results-scraper1.py
